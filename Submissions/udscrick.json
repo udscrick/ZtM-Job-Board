@@ -1,0 +1,16 @@
+{
+    "name": "Uday Menon",
+    "img": "https://avatars.githubusercontent.com/u/20023366?v=4",
+    "email": "udayvmenon@gmail.com",
+    "links": {
+      "website": "www.udayvmenon.com",
+      "linkedin": "https://www.linkedin.com/in/udayvmenon",
+      "github": "https://github.com/udscrick"
+    },
+    "jobTitle": "Senior Frontend Developer",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  }
